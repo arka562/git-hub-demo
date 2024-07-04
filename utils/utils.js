@@ -1,4 +1,4 @@
-function add(a,b){
-  return a+BarProp
+function add(a,nom){
+  return a+nom
 }
 const w=7;
