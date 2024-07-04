@@ -8,3 +8,6 @@ function add(a,nim){
 function add(a,n){
   return a+n
 }
+function a(a,n){
+  return a+n
+}
