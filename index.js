@@ -1,3 +1,3 @@
-const a=10;
+const a=5;
 const name="arka";
 
