@@ -2,3 +2,6 @@ function add(a,nom){
   return a+nom
 }
 const w=7;
+function add(a,nim){
+  return a+nim
+}
